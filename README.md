@@ -1,3 +1,8 @@
+# 소개
+## [깡통]에서 세미나로 진행한 두 번째 도서입니다.
+- 학습 시 사용했던 파일은 위와 같으며, 버전 오류 발생 시 수정하여 재업로드 하겠습니다.
+- 모든 저작권은 원작자에게 있습니다.
+
 # Hands-On Image Processing with Python
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://static.packt-cdn.com/products/9781789343731/cover/smaller" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
